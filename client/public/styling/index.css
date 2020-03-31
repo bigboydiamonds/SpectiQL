@@ -187,7 +187,7 @@
     text-align: center;
     color: black;
     font-size: 13px;
-    margin-top: 50%;
+    margin-top: 10%;
   }
   .next-button:hover {
     background: rgb(136, 133, 133);
@@ -221,7 +221,7 @@
     text-align: center;
     color: black;
     font-size: 13px;
-    margin-top: 50%;
+    margin-top: 10%;
   }
   .doc-button:hover {
     background: rgb(136, 133, 133);
@@ -848,7 +848,7 @@
     text-align: center;
     color: black;
     font-size: 13px;
-    margin-top: 50%;
+    margin-top: 10%;
   }
   .next-button:hover {
     background: rgb(136, 133, 133);
@@ -882,7 +882,7 @@
     text-align: center;
     color: black;
     font-size: 13px;
-    margin-top: 50%;
+    margin-top: 10%;
   }
   .doc-button:hover {
     background: rgb(136, 133, 133);
